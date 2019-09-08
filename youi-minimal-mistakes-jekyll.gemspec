@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors                 = ["Michael Rose", "You.i TV"]
 
   spec.summary                 = %q{A fork of the flexible two-column Jekyll theme.}
-  spec.homepage                = https://github.com/brigitte-youitv/brigitte-youi-minimal-mistakes
+  spec.homepage                = "https://github.com/brigitte-youitv/brigitte-youi-minimal-mistakes"
   spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
